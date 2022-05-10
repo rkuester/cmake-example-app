@@ -1,0 +1,29 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/x86_64-linux-gnu-g++-10",
+      "-std=gnu++11",
+      "-o",
+      "CMakeFiles/hello.dir/hello.cpp.o",
+      "-c",
+      "/home/rkuester/wetu/cmake-example-app/thirdparty/cmake-example-library/src/hello/hello.cpp"
+    ],
+    "directory": "/home/rkuester/wetu/cmake-example-app/build/thirdparty/cmake-example-library/src/hello",
+    "file": "/home/rkuester/wetu/cmake-example-app/thirdparty/cmake-example-library/src/hello/hello.cpp",
+    "output": "/home/rkuester/wetu/cmake-example-app/build/thirdparty/cmake-example-library/src/hello/CMakeFiles/hello.dir/hello.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/x86_64-linux-gnu-g++-10",
+      "-I/home/rkuester/wetu/cmake-example-app/thirdparty/cmake-example-library/src/hello/..",
+      "-std=gnu++11",
+      "-o",
+      "CMakeFiles/app.dir/app.main.cpp.o",
+      "-c",
+      "/home/rkuester/wetu/cmake-example-app/src/app.main.cpp"
+    ],
+    "directory": "/home/rkuester/wetu/cmake-example-app/build/src",
+    "file": "/home/rkuester/wetu/cmake-example-app/src/app.main.cpp",
+    "output": "/home/rkuester/wetu/cmake-example-app/build/src/CMakeFiles/app.dir/app.main.cpp.o"
+  }
+]

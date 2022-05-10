@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# Set up the project to be built for the first time.
+#
+# Run from the project's root directory.
+
+cmake -S . -B build

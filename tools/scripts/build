@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# Build the project.
+#
+# Run from the project's root directory.
+
+cmake --build build
